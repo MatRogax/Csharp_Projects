@@ -1,0 +1,15 @@
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\bin\Debug\net8.0\projects_Dio.exe
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\bin\Debug\net8.0\projects_Dio.deps.json
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\bin\Debug\net8.0\projects_Dio.runtimeconfig.json
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\bin\Debug\net8.0\projects_Dio.dll
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\bin\Debug\net8.0\projects_Dio.pdb
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.AssemblyInfoInputs.cache
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.AssemblyInfo.cs
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.csproj.CoreCompileInputs.cache
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.sourcelink.json
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.dll
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\refint\projects_Dio.dll
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.pdb
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\projects_Dio.genruntimeconfig.cache
+C:\Users\55829\Documents\GitHub\CSharp_Projects\projects_Dio\obj\Debug\net8.0\ref\projects_Dio.dll
