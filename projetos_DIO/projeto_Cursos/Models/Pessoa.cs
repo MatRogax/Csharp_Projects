@@ -20,7 +20,7 @@ public class Pessoa{
 
     public void MostrarDados(){
 
-        Console.WriteLine($"Nome: {NomeCompleto}");
+        Console.WriteLine($"Nome: {NomeCompleto} ");
         Console.WriteLine($"Idade: {Idade}");
 
     }
