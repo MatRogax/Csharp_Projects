@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace C#.projetos_DIO.projeto_Cursos.Models;
+namespace C.projetos_DIO.projeto_Cursos.Models;
 public class Curso{
     public string Nome { get; set; }
     public List<Pessoa> Alunos { get; set; }
@@ -13,16 +13,16 @@ public class Curso{
         Alunos = alunos;
     }
 
-    public void AdcionarAluno(){
+    public void AdcionarAluno(Pessoa aluno){
 
-        Alunos.Add();
-        Console.WriteLine($"Aluno {Nome} adicionado com sucesso!");
+        Alunos.Add(aluno);
+        Console.WriteLine($"Aluno {aluno.Nome} adicionado com sucesso!");
 
     }
-    public void RemoverAluno(){
+    public void RemoverAluno(Pessoa aluno){
 
-        Alunos.Remove();
-        Console.WriteLine($"Aluno {Nome} Removido com sucesso!");
+        Alunos.Remove(aluno);
+        Console.WriteLine($"Aluno {aluno.Nome} Removido com sucesso!");
 
     }
 
@@ -40,7 +40,7 @@ public class Curso{
 
         foreach(Pessoa aluno in Alunos){
 
-            Console.WriteLine({aluno.Nome});
+            Console.WriteLine(aluno.Nome);
         }
     
     }
